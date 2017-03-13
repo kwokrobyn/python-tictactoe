@@ -2,4 +2,4 @@
 
 A command line version of tictactoe 
 
-Built with Python 3 
+Built with Python 2.7
